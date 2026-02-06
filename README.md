@@ -1,1 +1,1 @@
-Here is my first python project. Go on and generate your next password. More to come. Stay tuned!!!
+Here is my first python project. The password is generated based on your choice of number of alphabets, symbols, and numbers. Go on and generate an unique password rather than using the same one for every website. More to come. Stay tuned!!!
